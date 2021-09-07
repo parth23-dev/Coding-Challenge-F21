@@ -63,9 +63,3 @@ print("The sentence with the lowest subjectivity: " + sentenceList[lowSubjectivi
 print("\n")
 print(f"The sentence with the highest subjectivity has a subjectivity score of: {highSubjectivity}")
 print("The sentence with the highest subjectivity: " + sentenceList[highSubjectivityIndex])
-
-
-
-
-
-
